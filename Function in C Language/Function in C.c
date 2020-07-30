@@ -21,18 +21,6 @@ int main()
 */
 
 
-// example with float integer value
-/*
-#include<stdio.h>
-float get()
-{
-    return 10.5;
-}
-float main()
-{
-    get();
-}
-*/
 
 //Example for Function without argument and return value
 /*
