@@ -34,7 +34,7 @@ void main ()
 }
 void printName()
 {
-    printf("Javatpoint");
+    printf("Nikki");
 }
 
 */
